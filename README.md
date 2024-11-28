@@ -27,4 +27,4 @@
     Percentage less than 40 - Fail 
     Write a program to calculate the division obtained by the student.
 
-11. Any character is entered by the user; write a program to determine whether the character entered is a capital letter, a small case letter, a digit or a special symbol. The following table shows the range of       ASCII values for various characters. 
+11. Any character is entered by the user; write a program to determine whether the character entered is a capital letter, a small case letter, a digit or a special symbol.
